@@ -1,6 +1,6 @@
 **Project Objective**: Determine characteristics of a customer who is likely to purchase a personal loan and which customer segment should be targeted for marketing personal loans.
 
-**Data Description**: General information regarding bank customers, including age, income, zipcode, family size, education leverl, and credit card spending.
+**Data Description**: General information regarding bank customers, including age, income, zipcode, family size, education level, and credit card spending.
 
 **Techniques Used**: Logistic Regression and Decision Tree Regression
 
