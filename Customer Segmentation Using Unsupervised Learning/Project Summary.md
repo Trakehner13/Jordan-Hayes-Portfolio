@@ -4,6 +4,6 @@
 
 **Techniques Used**: K-means Clustering and Hierarchical Clustering
 
-**Libraries/Packages**: pandas, numpy, matplotlib, seaborn, sklearn, scipy
+**Libraries/Packages**: pandas, numpy, matplotlib, seaborn, sklearn, and scipy
 
-**Insights**: Three clusters of customers were identified with recommendations to increase retention efforts for customers with fewest number of bank products by improving bank interactions with theses customers.
+**Insights**: Three clusters of customers were identified with recommendations to increase retention efforts for customers in the cluster with the fewest number of bank products by improving bank interactions with theses customers.
