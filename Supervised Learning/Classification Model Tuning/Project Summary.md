@@ -1,4 +1,4 @@
-**Project Objective**: Create classifcation models to predict if a credit card customer will cancel their account then optimize using hyperparameter tuning.
+**Project Objective**: Create classifcation models to predict if a credit card customer will cancel their account, then optimize the models using hyperparameter tuning.
 
 **Data Description**: General information regarding credit card customers, including age, income, gender, credit card spending, education level, and time with bank.
 
